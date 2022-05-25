@@ -1,0 +1,6 @@
+{
+  "searchinject": {
+    "component": "SearchInject",
+    "composition": "children"
+  }
+}
