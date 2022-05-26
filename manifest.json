@@ -1,7 +1,7 @@
 {
   "vendor": "shredshop",
   "name": "searchinject",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "SearchInject",
   "description": "SearchInject component",
   "defaultLocale": "pt-BR",
